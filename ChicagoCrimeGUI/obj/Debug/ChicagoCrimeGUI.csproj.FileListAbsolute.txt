@@ -1,0 +1,10 @@
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\bin\Debug\ChicagoCrimeGUI.exe.config
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\bin\Debug\ChicagoCrimeGUI.exe
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\bin\Debug\ChicagoCrimeGUI.pdb
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.csprojResolveAssemblyReference.cache
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.Form1.resources
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.FormPlot.resources
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.Properties.Resources.resources
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.csproj.GenerateResource.Cache
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.exe
+C:\Users\Kshah21\Desktop\Spring 2016\CS 341\HW8\ChicagoCrimeDB\ChicagoCrimeGUI\obj\Debug\ChicagoCrimeGUI.pdb
